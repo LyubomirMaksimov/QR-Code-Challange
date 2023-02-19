@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Challange/static/css/main.64fa0c42.css",
+    "main.js": "/QR-Code-Challange/static/js/main.fe214400.js",
+    "index.html": "/QR-Code-Challange/index.html",
+    "main.64fa0c42.css.map": "/QR-Code-Challange/static/css/main.64fa0c42.css.map",
+    "main.fe214400.js.map": "/QR-Code-Challange/static/js/main.fe214400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64fa0c42.css",
+    "static/js/main.fe214400.js"
+  ]
+}
